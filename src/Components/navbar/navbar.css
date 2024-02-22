@@ -1,0 +1,10 @@
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 5px 0 5px #fff;
+    color: #05c48e;
+    font-size: 22px;
+}
